@@ -16,7 +16,7 @@ spec:
       containers:
       - command:
         - /app/sample-app
-        image: uontario/sample-app:df24a4b
+        image: uontario/sample-app:782d26a
         name: sample-app
         ports:
         - containerPort: 8080
